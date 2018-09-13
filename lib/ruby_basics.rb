@@ -10,7 +10,7 @@ def argue(mean)
   mean
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
